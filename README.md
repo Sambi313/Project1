@@ -1,2 +1,4 @@
 # Project1
-Website 
+Website Tradeart
+
+This is the whole project, yalla
